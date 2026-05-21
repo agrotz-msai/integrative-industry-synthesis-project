@@ -16,8 +16,8 @@ The building block models are then integrated into a system of several work flow
 We also list some limitations and potential improvements of our system, and conclude with a short summary.
 
 ## How to run the project
-The main component of the project is the Jupyter notebook 'deepintegrative_industry_synthesislearning.ipynb'.
-When checking out this repository, the following dataset files included:
+The main component of the project is the Jupyter notebook 'integrative_industry_synthesis.ipynb'.
+When checking out this repository, the following dataset files are already included:
 	
 	commodity_prices.csv
 	Gro_handelspreise_201501010000_202412310000_Tag.csv
@@ -36,5 +36,5 @@ It can be used e.g. in a virtual Anaconda environement by opening an Anaconda pr
 	python -m ipykernel install --user --name=env_msai_cap_7
 	jupyter notebook
 	
-The last command opens a Jupyter GUI, where one needs to click on the notebook 'deep-learning.ipynb' and then click on Run... -> Run All Cells
+The last command opens a Jupyter GUI, where one needs to click on the notebook 'integrative_industry_synthesis.ipynb' and then click on Run... -> Run All Cells
 
